@@ -78,7 +78,8 @@ cd Chatbot-for-financial-investments
 Python 3.8+
 Библиотеки: aiogram, yfinance, pandas, numpy, scikit-learn, statsmodels, matplotlib, optuna, torch
 
-## Можно и звездочку поставить.
+⭐ Если проект вам понравился — поставьте звезду!
+
 
 
 
