@@ -1,0 +1,9 @@
+aiogram==3.12.0
+yfinance==0.2.36
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.0
+statsmodels==0.14.2
+matplotlib==3.9.2
+optuna==3.6.1
+torch==2.3.1
